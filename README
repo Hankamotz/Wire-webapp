@@ -1,13 +1,20 @@
 Wire Webapp
 
-Yet another web based Wire Messenger app.
+Two column webapp for ubuntu touch devices.
 
-Use Wire Messenger Ubuntu Touch phones. Provides acces to app.wire.com website in desktop mode adapting style to make more phone friendly, hiding left toolbar and allowing to make chat wider. 
+This webapp provides acces to app.wire.com website in desktop mode adapting style to make more phone friendly. Unfortunately, in phones works only in landscape orientation.
 
+With this webapp you can:
+-Search and chat with your contacts
+-Send/receive photos, gifs...
+
+With this webapp you can't:
+-Receive notifications
+-Make/receive video calls/audio messages
 
 This app uses Ogra's webapp container.
 
-There are some bugs i try to fix soon.
+
 
 
 
