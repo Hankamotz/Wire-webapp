@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "wire messenger webapp",
+    "framework": "ubuntu-sdk-15.04.4",
+    "hooks": {
+        "wire": {
+            "apparmor": "app.json",
+            "desktop": "app.desktop"
+        }
+    },
+    "maintainer": "Andima Landaluze <andimalo@hotmail.es>",
+    "name": "wire.hankamotz",
+    "title": "wire",
+    "version": "0.1.1"
+}
